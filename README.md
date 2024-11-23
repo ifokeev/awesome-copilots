@@ -31,13 +31,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Proactively fixes errors using AI
   * Open source (AGPL-3.0, 600+ stars)
 
-* [Cursor](https://cursor.com) - AI-first code editor
+* [Cursor](https://cursor.com) - AI-first code editor (VS Code fork)
   * Supports multiple AI models
   * Offers a VS Code-like experience
   * SOC 2 certified with local storage options
   * Enables multi-file editing
 
-* [Windsurf](https://codeium.com/windsurf) - Agentic IDE by Codeium
+* [Windsurf](https://codeium.com/windsurf) - Agentic IDE by Codeium (VS Code fork)
   * Provides deep codebase understanding
   * Supports multi-file editing and command suggestions
   * Built on VS Code with enhanced AI capabilities
