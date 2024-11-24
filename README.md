@@ -49,10 +49,24 @@ A curated list of AI copilots and assistants across different domains. These too
 
 ### IDE Extensions & Plugins
 
+* [Amazon Q](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html) - AI assistant for AWS development
+  * Integrates with IDEs for code assistance and generation
+  * Scans code for security vulnerabilities
+  * Offers real-time code suggestions and improvements
+  * Powered by Amazon Bedrock for enhanced AI capabilities
+  * Free tier available
+
 * [Cline](https://github.com/cline/cline) - Autonomous coding agent
   * Supports multiple AI providers
   * Allows file editing and command execution
   * Includes browser automation features
+
+* [Codeium](https://codeium.com/download) - AI-powered code acceleration
+  * Supports over 70 programming languages
+  * Integrates with popular IDEs (VS Code, JetBrains, Neovim, etc.)
+  * Provides real-time code suggestions and completions
+  * Offers code explanations and refactoring assistance
+  * Free for individual developers
 
 * [Continue](https://github.com/continuedev/continue) - Open-source AI assistant
   * Integrates with VS Code & JetBrains
