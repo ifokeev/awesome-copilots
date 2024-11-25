@@ -91,6 +91,14 @@ A curated list of AI copilots and assistants across different domains. These too
   * Offers code visualization and real-time pair programming
   * Supports multiple programming languages
 
+### Desktop Applications
+
+* [16x Prompt](https://prompt.16x.engineer/) - AI Coding with Context Management
+  * Provides GUI for code context management
+  * Offers structured prompt creation
+  * Customizable formatting instructions
+  * Supports multiple AI models
+
 ## Other Domains
 *(Coming soon - Will include copilots for design, writing, data analysis, etc.)*
 
