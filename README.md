@@ -79,6 +79,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Supports multiple languages and IDEs
   * Generates tests and context-aware completions
 
+* [Sourcegraph Cody](https://github.com/sourcegraph/cody) - AI assistant with codebase context
+  * Uses latest LLMs (Claude 3.5 Sonnet, GPT-4, etc.)
+  * Advanced search for local and remote codebases
+  * Supports VS Code, JetBrains, and web
+  * Features chat, autocomplete, and inline edits
+  * Open source (Apache 2.0, 2.8k+ stars)
+
 * [Tabby](https://github.com/TabbyML/tabby) - Self-hosted AI assistant
   * Supports major IDEs and local deployment
   * Features Answer Engine and RAG
