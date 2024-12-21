@@ -56,6 +56,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Powered by Amazon Bedrock for enhanced AI capabilities
   * Free tier available
 
+* [Devin](https://devin.ai) - Collaborative AI teammate for engineering teams
+  * Works across multiple tools (GitHub, Slack, AWS, etc.)
+  * Handles code migrations and refactors
+  * Performs code reviews and bug fixes
+  * Features built-in shell, editor, and browser
+  * Learns from codebases and team workflows
+
 * [Cline](https://github.com/cline/cline) - Autonomous coding agent
   * Supports multiple AI providers
   * Allows file editing and command execution
