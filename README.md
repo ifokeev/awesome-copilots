@@ -98,6 +98,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Offers code visualization and real-time pair programming
   * Supports multiple programming languages
 
+* [Replit](https://replit.com) - Cloud IDE with AI agent
+  * Features Replit Agent for automated development
+  * Supports multiple programming languages
+  * Offers real-time collaboration
+  * Includes instant deployment capabilities
+  * Free tier available
+
 ### Desktop Applications
 
 * [16x Prompt](https://prompt.16x.engineer/) - AI Coding with Context Management
