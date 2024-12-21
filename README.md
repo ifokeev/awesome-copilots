@@ -100,6 +100,12 @@ A curated list of AI copilots and assistants across different domains. These too
 
 ### Web-Based Development Environments
 
+* [Bolt](https://bolt.new) - AI-powered full-stack web app development
+  * Prompt-based app generation
+  * Integrated editing and deployment
+  * Full-stack development support
+  * Real-time collaboration features
+
 * [ChatGPT Canvas](https://chat.openai.com) - Visual AI coding assistant
   * Provides a collaborative coding environment
   * Offers code visualization and real-time pair programming
