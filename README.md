@@ -111,6 +111,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Offers code visualization and real-time pair programming
   * Supports multiple programming languages
 
+* [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Platform for software development agents
+  * Modifies code, runs commands, and browses web
+  * Supports multiple LLM providers (Claude 3.5 Sonnet recommended)
+  * Features Docker-based deployment
+  * Includes CLI and GitHub Actions integration
+  * Open source (MIT, 41k+ stars)
+
 * [Replit](https://replit.com) - Cloud IDE with AI agent
   * Features Replit Agent for automated development
   * Supports multiple programming languages
