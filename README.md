@@ -63,6 +63,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Features built-in shell, editor, and browser
   * Learns from codebases and team workflows
 
+* [Flexpilot](https://github.com/flexpilot-ai/vscode-extension) - Open-source GitHub Copilot alternative
+  * Supports multiple AI providers (Anthropic, OpenAI, Mistral, etc.)
+  * Native VS Code integration with chat and completions
+  * Features voice chat and commit message generation
+  * Open source (GPL-3.0, 500+ stars)
+
 * [Cline](https://github.com/cline/cline) - Autonomous coding agent
   * Supports multiple AI providers
   * Allows file editing and command execution
