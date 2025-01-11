@@ -93,6 +93,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Features chat, autocomplete, and inline edits
   * Open source (Apache 2.0, 2.8k+ stars)
 
+* [Sweep](https://sweep.dev) - AI-powered code maintainer for JetBrains IDEs
+  * Automatically fixes bugs and implements features
+  * Integrates with GitHub issues and PRs
+  * Handles code refactoring and documentation
+  * Supports multiple programming languages
+  * Free for open source projects
+
 * [Tabby](https://github.com/TabbyML/tabby) - Self-hosted AI assistant
   * Supports major IDEs and local deployment
   * Features Answer Engine and RAG
