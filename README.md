@@ -43,6 +43,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * SOC 2 certified with local storage options
   * Enables multi-file editing
 
+* [Trae](https://www.trae.ai/) - Adaptive AI IDE
+  * Collaborative AI partner
+  * Designed to speed up development
+  * Transforms workflows
+  * Available as a downloadable application
+
 * [Windsurf](https://codeium.com/windsurf) - Agentic IDE by Codeium (VS Code fork)
   * Provides deep codebase understanding
   * Supports multi-file editing and command suggestions
