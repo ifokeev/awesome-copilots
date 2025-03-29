@@ -18,6 +18,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Supports multi-file editing and voice coding
   * Open source (Apache 2.0, 22k+ stars)
 
+* [Claude Code](https://github.com/anthropics/claude-code) - Agentic coding tool in the terminal
+  * Executes tasks, explains code, handles git workflows
+  * Codebase understanding via natural language
+  * Powered by Anthropic's Claude models
+  * Open source (Anthropic License, 6.9k+ stars)
+
 * [Codai](https://github.com/meysamhadeli/codai) - Session-based CLI code assistant
   * Supports multiple LLMs and languages
   * Uses RAG for context management
