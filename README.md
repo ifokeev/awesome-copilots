@@ -169,6 +169,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Features Hyper3D Rodin for 3D model generation
   * Open source (MIT, 8.9k+ stars)
 
+* [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server for Figma design integration
+  * Provides Figma layout information to AI coding agents
+  * Enables one-shot design implementation
+  * Integrates with Cursor, Windsurf, and other AI tools
+  * Simplifies Figma API responses for better AI accuracy
+  * Open source (MIT, 3.7k+ stars)
+
 *(Coming soon - Will include copilots for writing, data analysis, etc.)*
 
 ## Contributing
