@@ -159,7 +159,17 @@ A curated list of AI copilots and assistants across different domains. These too
   * Supports multiple AI models
 
 ## Other Domains
-*(Coming soon - Will include copilots for design, writing, data analysis, etc.)*
+
+### 3D & Design Tools
+
+* [BlenderMCP](https://github.com/ahujasid/blender-mcp) - MCP server for Claude AI integration with Blender
+  * Implements Model Context Protocol for direct Blender control
+  * Enables prompt-assisted 3D modeling and scene creation
+  * Supports Poly Haven asset integration
+  * Features Hyper3D Rodin for 3D model generation
+  * Open source (MIT, 8.9k+ stars)
+
+*(Coming soon - Will include copilots for writing, data analysis, etc.)*
 
 ## Contributing
 
