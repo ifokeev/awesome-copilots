@@ -136,6 +136,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Offers code visualization and real-time pair programming
   * Supports multiple programming languages
 
+* [Firebase Studio](https://firebase.studio/) - Full stack AI workspace
+  * Accelerates development with AI agents (Gemini)
+  * Supports importing existing repositories (GitHub, GitLab, etc.)
+  * Built-in web previews and Android emulators
+  * Facilitates deployment to Firebase Hosting or Cloud Run
+  * Free tier available during preview
+
 * [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Platform for software development agents
   * Modifies code, runs commands, and browses web
   * Supports multiple LLM providers (Claude 3.5 Sonnet recommended)
