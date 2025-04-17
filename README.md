@@ -30,6 +30,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Provides direct code acceptance
   * Open source (Apache 2.0)
 
+* [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent for the terminal
+  * Runs interactively or with prompt input
+  * Scaffolds files, runs code in sandbox, installs dependencies
+  * Requires OpenAI API key
+  * Works on macOS, Linux, and WSL2
+  * Open source (Apache-2.0, 9.5k+ stars)
+
 ### AI-Powered Code Editors
 
 * [Aide](https://github.com/codestoryai/aide) - AI-native code editor (VS Code fork)
