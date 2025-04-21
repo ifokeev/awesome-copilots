@@ -30,6 +30,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Provides direct code acceptance
   * Open source (Apache 2.0)
 
+* [Goose](https://github.com/block/goose) - Open source, extensible AI agent
+  * Automates engineering tasks (install, execute, edit, test)
+  * Works with any LLM and integrates with MCP servers
+  * Available as Desktop App and CLI
+  * Supports workflow orchestration and API interaction
+  * Open source (Apache-2.0, 11.9k+ stars)
+
 * [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent for the terminal
   * Runs interactively or with prompt input
   * Scaffolds files, runs code in sandbox, installs dependencies
