@@ -37,6 +37,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Supports workflow orchestration and API interaction
   * Open source (Apache-2.0, 11.9k+ stars)
 
+* [Vibe Compiler (vibec)](https://github.com/grishingrishin/vibe-compiler) - Self-compiling tool for code generation
+  * Transforms markdown-based prompt stacks into code and tests
+  * Works with any LLM via OpenRouter (Claude, ChatGPT, Grok)
+  * Self-improves through a progressive bootstrapping process
+  * Supports both static and dynamic plugins
+  * Open source (MIT license)
+
 * [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent for the terminal
   * Runs interactively or with prompt input
   * Scaffolds files, runs code in sandbox, installs dependencies
