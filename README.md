@@ -72,6 +72,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Built in Rust for speed and efficiency
   * Facilitates team collaboration
   * Integrates with upcoming LLMs
+ 
+* [Void](http://voideditor.com/) - Open-source AI code editor
+  * Void is an open source Cursor alternative
+  * Write code with the best AI tools
+  * Use any model 
+  * Retain full control over your data
+
 
 ### IDE Extensions & Plugins
 
