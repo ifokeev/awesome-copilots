@@ -204,7 +204,16 @@ A curated list of AI copilots and assistants across different domains. These too
   * Simplifies Figma API responses for better AI accuracy
   * Open source (MIT, 3.7k+ stars)
 
-*(Coming soon - Will include copilots for writing, data analysis, etc.)*
+### Productivity & Workspace
+
+* [Taskade](https://taskade.com/agents) - AI copilot for productivity
+  * Custom AI agents with 22+ built-in tools and slash commands
+  * Writing assistance with real-time collaboration
+  * Task automation powered by durable execution engine
+  * Multi-model support (GPT-4o, Claude, Gemini)
+  * Features MCP server for tool integration
+
+*(Coming soon - More copilots for writing, data analysis, etc.)*
 
 ## Contributing
 
