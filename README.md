@@ -78,6 +78,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Write code with the best AI tools
   * Use any model 
   * Retain full control over your data
+ 
+* [Nimbalyst](https://nimbalyst.com/) - Agent management environment
+  * Purpose-built tool for working with Claude Code and Codes
+  * Interactive visual editing of markdown, mockups, excalidraw, mermaid, csv, code
+  * Parallel session management tie sessions to files, search, resume, orchestrate
+  * Local, free
 
 
 ### IDE Extensions & Plugins
