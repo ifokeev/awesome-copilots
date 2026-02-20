@@ -37,6 +37,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Supports workflow orchestration and API interaction
   * Open source (Apache-2.0, 11.9k+ stars)
 
+* [Mantra](https://mantra.gonewx.com) - Session time-machine for AI coding tools
+  * Automatically snapshots sessions for Claude Code, Cursor, Windsurf, and Augment Code
+  * Browse and restore any previous conversation state
+  * Local-first architecture with no data leaving your machine
+  * Install via `curl -fsSL https://mantra.gonewx.com/install.sh | bash`
+
 * [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent for the terminal
   * Runs interactively or with prompt input
   * Scaffolds files, runs code in sandbox, installs dependencies
