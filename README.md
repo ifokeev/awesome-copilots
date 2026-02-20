@@ -37,6 +37,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Supports workflow orchestration and API interaction
   * Open source (Apache-2.0, 11.9k+ stars)
 
+* [Mantra](https://mantra.gonewx.com) - Session time-travel for AI coding assistants
+  * Captures and replays AI coding sessions locally
+  * Supports Claude Code, Cursor, Gemini CLI, and Codex
+  * Enables session branching and checkpoint restore
+  * Local-first architecture with no cloud dependency
+
 * [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent for the terminal
   * Runs interactively or with prompt input
   * Scaffolds files, runs code in sandbox, installs dependencies
