@@ -186,6 +186,15 @@ A curated list of AI copilots and assistants across different domains. These too
   * Customizable formatting instructions
   * Supports multiple AI models
 
+
+### Session Management & Companion Tools
+
+* [Mantra](https://mantra.gonewx.com) - Time-travel debugger for AI coding sessions
+  * Branch, snapshot, and restore sessions as navigable timelines
+  * Works with Claude Code, Cursor, Windsurf, GitHub Copilot
+  * Desktop app for macOS, Windows, Linux
+  * First 50 users get lifetime free access
+
 ## Other Domains
 
 ### 3D & Design Tools
