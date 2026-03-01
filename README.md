@@ -44,6 +44,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Works on macOS, Linux, and WSL2
   * Open source (Apache-2.0, 9.5k+ stars)
 
+* [OpenPaw](https://github.com/daxaur/openpaw) - Turns Claude Code into a personal assistant with 38 skills
+  * Email, calendar, Spotify, smart home, Slack, GitHub, and more
+  * Install and run via `npx pawmode`
+  * No daemon, no cloud, MIT licensed
+  * Open source (MIT)
+
 ### AI-Powered Code Editors
 
 * [Aide](https://github.com/codestoryai/aide) - AI-native code editor (VS Code fork)
