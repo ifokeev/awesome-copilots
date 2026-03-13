@@ -204,7 +204,17 @@ A curated list of AI copilots and assistants across different domains. These too
   * Simplifies Figma API responses for better AI accuracy
   * Open source (MIT, 3.7k+ stars)
 
-*(Coming soon - Will include copilots for writing, data analysis, etc.)*
+
+### Writing & Content Copilots
+
+* [helloandy.net AI Writing Suite](https://helloandy.net) - Free AI copilots for writers and agent developers
+  * [AI Writing Coach](https://helloandy.net/ai-prose-improver/) - Improves prose rhythm, structure, and naturalness
+  * [AI Text Humanizer](https://helloandy.net/humanizer/) - Rewrites AI-sounding text with natural rhythm (CoV 0.1→0.6)
+  * [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) - AI copilot for writing Claude agent system prompts
+  * [SKILL.md Generator](https://helloandy.net/skill-generator/) - Generates agent skill instruction files
+  * All tools free, no account required, rate-limited per IP
+
+*(More writing copilots coming — PRs welcome!)*
 
 ## Contributing
 
