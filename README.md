@@ -120,6 +120,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Provides inline suggestions
   * Open source (Apache 2.0, 19k+ stars)
 
+* [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants
+  * Auto-captures decisions, patterns, and context across sessions
+  * VSCode extension + CLI + MCP server
+  * Works with any AI coding assistant
+  * Free and open source (MIT)
+
 * [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
   * Offers real-time code suggestions
   * Supports multiple languages and IDEs
