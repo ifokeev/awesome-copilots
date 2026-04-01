@@ -44,6 +44,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Works on macOS, Linux, and WSL2
   * Open source (Apache-2.0, 9.5k+ stars)
 
+* [IM.codes](https://github.com/im4codes/imcodes) - Mobile/web control layer for terminal-based coding agents
+  * Keeps Claude Code, Codex, Gemini CLI, and similar agent sessions within reach from mobile or web
+  * Provides terminal access, file browsing, and git views for remote continuation
+  * Supports localhost preview, notifications, and multi-agent workflows
+  * Designed for long-running coding sessions away from the desk
+  * Open source (MIT, GitHub)
+
 ### AI-Powered Code Editors
 
 * [Aide](https://github.com/codestoryai/aide) - AI-native code editor (VS Code fork)
