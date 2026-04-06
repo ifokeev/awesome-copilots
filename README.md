@@ -4,6 +4,7 @@ A curated list of AI copilots and assistants across different domains. These too
 
 **Disclaimer: Some of these tools are still in experimental phases. Users should evaluate them based on their specific needs and security requirements.**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with automated delegation and quality gates. MIT licensed.
 ## Table of Contents
 - [Coding Copilots](#coding-copilots)
 - [Other Domains](#other-domains) <!-- Placeholder for future sections -->
