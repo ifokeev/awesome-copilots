@@ -204,6 +204,14 @@ A curated list of AI copilots and assistants across different domains. These too
   * Simplifies Figma API responses for better AI accuracy
   * Open source (MIT, 3.7k+ stars)
 
+### AI Skills & Personas Marketplaces
+
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
+  * Discover community-built AI agent skills and personas
+  * Share and distribute your own AI skills
+  * Buy and sell premium AI capabilities
+  * Built on the open-source OpenClaw standard
+
 *(Coming soon - Will include copilots for writing, data analysis, etc.)*
 
 ## Contributing
