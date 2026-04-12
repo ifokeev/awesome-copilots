@@ -44,6 +44,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Works on macOS, Linux, and WSL2
   * Open source (Apache-2.0, 9.5k+ stars)
 
+* [Toprank](https://github.com/nowork-studio/toprank) - Open-source MIT Claude Code plugin for SEO and Google Ads workflows
+  * Includes 9 skills for SEO audits, content updates, and ads operations
+  * Connects Google Search Console, PageSpeed Insights, and Google Ads API
+  * Can ship fixes like meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes
+  * Open source (MIT, 100+ stars)
+
 ### AI-Powered Code Editors
 
 * [Aide](https://github.com/codestoryai/aide) - AI-native code editor (VS Code fork)
