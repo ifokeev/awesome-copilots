@@ -80,6 +80,14 @@ A curated list of AI copilots and assistants across different domains. These too
   * Retain full control over your data
 
 
+
+### Reference & Comparison Tools
+
+* [AI Dev Tools Directory](https://aidevtools-3qf.pages.dev/) - Free, real-time pricing comparison and benchmark suite for 61+ AI coding models
+  * Interactive ROI calculator, value analyzer, and model switching tool
+  * Public JSON API with 6 endpoints for pricing and benchmark data
+  * Open-source with weekly automated pricing freshness checks
+
 ### IDE Extensions & Plugins
 
 * [Amazon Q](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html) - AI assistant for AWS development
