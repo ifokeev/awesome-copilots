@@ -6,7 +6,7 @@ A curated list of AI copilots and assistants across different domains. These too
 
 ## Table of Contents
 - [Coding Copilots](#coding-copilots)
-- [Other Domains](#other-domains) <!-- Placeholder for future sections -->
+- [Other Domains](#other-domains)
 
 ## Coding Copilots
 
@@ -203,6 +203,15 @@ A curated list of AI copilots and assistants across different domains. These too
   * Integrates with Cursor, Windsurf, and other AI tools
   * Simplifies Figma API responses for better AI accuracy
   * Open source (MIT, 3.7k+ stars)
+
+### DevOps & Infrastructure
+
+* [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard
+  * Provides AI copilot for Kubernetes operations across edge and cloud clusters
+  * Integrates with 20+ CNCF projects (Argo, Kyverno, Istio, Prometheus, etc.)
+  * Features real-time observability, compliance dashboards, and supply chain security
+  * Supports Claude, OpenAI, and Gemini as AI backends via MCP bridge
+  * Open source (Apache 2.0, CNCF Sandbox project)
 
 *(Coming soon - Will include copilots for writing, data analysis, etc.)*
 
