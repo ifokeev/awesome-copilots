@@ -180,6 +180,7 @@ A curated list of AI copilots and assistants across different domains. These too
 
 ### Desktop Applications
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
 * [16x Prompt](https://prompt.16x.engineer/) - AI Coding with Context Management
   * Provides GUI for code context management
   * Offers structured prompt creation
