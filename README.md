@@ -38,6 +38,7 @@ A curated list of AI copilots and assistants across different domains. These too
   * Open source (Apache-2.0, 11.9k+ stars)
 
 * [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent for the terminal
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
   * Runs interactively or with prompt input
   * Scaffolds files, runs code in sandbox, installs dependencies
   * Requires OpenAI API key
