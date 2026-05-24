@@ -178,6 +178,11 @@ A curated list of AI copilots and assistants across different domains. These too
   * Includes instant deployment capabilities
   * Free tier available
 
+* [Primio](https://primio.dev) - Chat-based AI builder for full Flutter apps (mobile + web)
+  * Generates and iterates on apps from natural language
+  * In-browser emulator and live preview
+  * One-click publishing to the app stores
+
 ### Desktop Applications
 
 * [16x Prompt](https://prompt.16x.engineer/) - AI Coding with Context Management
