@@ -188,6 +188,13 @@ A curated list of AI copilots and assistants across different domains. These too
 
 ## Other Domains
 
+### Knowledge & Memory Copilots
+
+* [Remio](https://remio.ai/) - Local-first AI memory and knowledge base for personal and agent context
+  * Captures and searches files, webpages, recordings, emails, messages, images, and notes
+  * Builds local indexes and vectors for fast semantic retrieval
+  * Helps AI agents fetch relevant context without repeated folder scans or whole-file loading
+  * Desktop app with CLI access for agent workflows
 ### 3D & Design Tools
 
 * [BlenderMCP](https://github.com/ahujasid/blender-mcp) - MCP server for Claude AI integration with Blender
