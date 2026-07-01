@@ -44,6 +44,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Works on macOS, Linux, and WSL2
   * Open source (Apache-2.0, 9.5k+ stars)
 
+* [Vox](https://github.com/aasis21/vox) - Hands-free voice panel for the GitHub Copilot CLI
+  * Speak your turn and hear the agent's reply, streamed aloud as it types
+  * Attaches to a live Copilot session via the extension SDK (canvas + session events)
+  * Uses the browser's Web Speech API — no speech engine to install, no build step
+  * Also renders inside the GitHub Copilot app; one-line install on macOS, Linux, Windows
+  * Open source (MIT)
+
 ### AI-Powered Code Editors
 
 * [Aide](https://github.com/codestoryai/aide) - AI-native code editor (VS Code fork)
