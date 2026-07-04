@@ -210,6 +210,8 @@ A curated list of AI copilots and assistants across different domains. These too
 
 Want to add a copilot to the list? Please read the [contribution guidelines](CONTRIBUTING.md) first. Pull requests are welcome!
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown files + Claude Code skills that give any AI agent deep, longitudinal context about you. 4 templates + 5 skills, MIT licensed.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
