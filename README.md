@@ -188,6 +188,15 @@ A curated list of AI copilots and assistants across different domains. These too
 
 ## Other Domains
 
+### Software QA Copilots
+
+* [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for software teams
+  * Writes and runs natural-language tests for web and mobile applications
+  * Recovers from UI drift with self-healing execution and persistent memory
+  * Provides a dashboard, CLI, MCP integration, and skills for coding agents
+  * Supports OpenAI- and Anthropic-compatible endpoints, Gemini, Codex, and Claude Code
+  * Source available under FSL-1.1-ALv2 with an Apache-2.0 future license (764+ stars)
+
 ### 3D & Design Tools
 
 * [BlenderMCP](https://github.com/ahujasid/blender-mcp) - MCP server for Claude AI integration with Blender
