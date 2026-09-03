@@ -186,6 +186,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Customizable formatting instructions
   * Supports multiple AI models
 
+* [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app that gives coding agents a real computer to act in
+  * Real browser the agent can navigate, click, type, and screenshot
+  * iOS Simulator window for installing and screenshotting apps
+  * Phone companion app + relay for remote monitoring of a session
+  * Open source (MIT)
+
 ## Other Domains
 
 ### 3D & Design Tools
