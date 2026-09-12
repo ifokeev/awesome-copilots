@@ -37,6 +37,7 @@ A curated list of AI copilots and assistants across different domains. These too
   * Supports workflow orchestration and API interaction
   * Open source (Apache-2.0, 11.9k+ stars)
 
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 * [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent for the terminal
   * Runs interactively or with prompt input
   * Scaffolds files, runs code in sandbox, installs dependencies
