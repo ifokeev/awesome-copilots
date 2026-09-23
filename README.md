@@ -7,6 +7,7 @@ A curated list of AI copilots and assistants across different domains. These too
 ## Table of Contents
 - [Coding Copilots](#coding-copilots)
 - [Other Domains](#other-domains) <!-- Placeholder for future sections -->
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 
 ## Coding Copilots
 
