@@ -186,6 +186,13 @@ A curated list of AI copilots and assistants across different domains. These too
   * Customizable formatting instructions
   * Supports multiple AI models
 
+* [Orkas](https://github.com/Orkas-AI/Orkas) - Local-first desktop AI workforce for project work, including software development
+  * Commander coordinates specialist agents around project files
+  * ProductDeveloper supports implementation, testing, refactoring and code review
+  * Connect supported model providers with your own API keys
+  * Bring installed and authenticated coding CLIs into the workspace
+  * Open source (MIT, 2.2k+ stars)
+
 ## Other Domains
 
 ### 3D & Design Tools
