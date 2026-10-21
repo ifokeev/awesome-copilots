@@ -188,6 +188,15 @@ A curated list of AI copilots and assistants across different domains. These too
 
 ## Other Domains
 
+### Career Copilots
+
+* [JobEmerge](https://www.jobemerge.work) - AI career copilot for job seekers
+  * Builds resumes with 33 ATS-ready templates
+  * Compares a resume with a target job description
+  * Supports text-based behavioral, technical, comprehensive, and case mock interviews
+  * Translates resumes into 19 preset languages or a custom option
+  * Tracks applications in list, Kanban, calendar, and table views
+
 ### 3D & Design Tools
 
 * [BlenderMCP](https://github.com/ahujasid/blender-mcp) - MCP server for Claude AI integration with Blender
