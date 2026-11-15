@@ -204,6 +204,12 @@ A curated list of AI copilots and assistants across different domains. These too
   * Simplifies Figma API responses for better AI accuracy
   * Open source (MIT, 3.7k+ stars)
 
+
+### Live Music & Booking
+
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for searching under-400 capacity live music venues
+  * Search independent venues, capacity, stage specs, and booking contacts across North America
+  * Works via Streamable HTTP MCP with Claude, ChatGPT, and Cursor
 *(Coming soon - Will include copilots for writing, data analysis, etc.)*
 
 ## Contributing
